@@ -1,4 +1,5 @@
 Link Git:https://git-scm.com/
+Link para ajuda no git: https://www.atlassian.com/br/git/tutorials/git-bash#:~:text=O%20comando%20do%20Bash%20pwd,do%20diret%C3%B3rio%20de%20trabalho%20atual.
 
 Comandos básico:
 - Windows *DIR*: Listar diretorio 
@@ -15,3 +16,4 @@ Comandos básico:
 - Windows "rmdir (nome da pasta) /s /Q": Excluir a pasta criada
 - Linux * rm -rf (nome da pasta) /: Excluir a pasta criada
 - Ls -a : Vê arquivos ocultos
+
