@@ -1,0 +1,17 @@
+Link Git:https://git-scm.com/
+
+Comandos básico:
+- Windows *DIR*: Listar diretorio 
+- Linux *Ls*: Listar diretorio  
+- Windows *cd /*: Ir para uma pasta especifica
+- Linux *cd etc* : Ir para uma pasta espeficica
+- Ambos *cd ..*: Voltar diretorio anterior
+- Winwdows * cls*: Limpar CMD
+- Linux *clear ou ctrl+l*: Limpar CMD
+- TAB: auto completa a palavra
+- Ambos * Mkdir (nome da pasta)*: Cria uma pasta 
+- "echo hello > hello.txt": cria um arquivo dentro da pasta
+- del(nome da pasta) : excluir arquivo
+- Windows "rmdir (nome da pasta) /s /Q": Excluir a pasta criada
+- Linux * rm -rf (nome da pasta) /: Excluir a pasta criada
+- Ls -a : Vê arquivos ocultos
