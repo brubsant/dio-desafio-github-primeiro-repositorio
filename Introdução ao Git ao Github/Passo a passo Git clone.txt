@@ -1,0 +1,15 @@
+Para fazer o clone no git:
+•	Clique na pasta desejada e entre no Git
+•	Digitar no Git “git clone (colar seu link https ou ssh)
+•	Apertar enter
+•	Entrar dentro da pasta desejada (repositório) digite cd (nome da pasta)
+
+Obs: ao colocar um novo arquivo o git vai mostra para incluir ela no github
+“Git add . “(para adicionar os arquivos ou pastas que estiver em vermelho no git) foi adicionado só no controle local, 
+
+Para colocar no GitHub você tem que escrever no git :
+*Git commit -m* “Inclusão das anotações do curso de git/github” ou nome de sua preferência
+
+Para enviar visualizar no git hub tem que fazer um:
+*Git push origin main*
+Enter
